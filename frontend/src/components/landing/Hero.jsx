@@ -10,7 +10,7 @@ export default function Hero() {
             {/* Background image */}
             <div className="absolute inset-0 z-0">
                 <img
-                    src="https://images.unsplash.com/photo-1764012394013-0e3639b223dd?crop=entropy&cs=srgb&fm=jpg&w=2000&q=85"
+                    src="https://customer-assets.emergentagent.com/wingman/500b324a-8090-4eb8-a743-d731f879d316/attachments/261176894c99408ebf158bcba2c4c139_Cover.jpg"
                     alt="Misty rolling hills of Kalvarayan"
                     className="w-full h-full object-cover animate-slow-zoom"
                 />
