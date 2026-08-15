@@ -37,7 +37,7 @@ export default function Header() {
                     className="flex flex-col leading-none"
                 >
                     <span
-                        className={`font-serif text-2xl md:text-[26px] tracking-tight italic ${
+                        className={`font-sans font-semibold text-xl md:text-[22px] tracking-tight ${
                             scrolled ? "text-[#1A2F24]" : "text-white"
                         } transition-colors`}
                     >

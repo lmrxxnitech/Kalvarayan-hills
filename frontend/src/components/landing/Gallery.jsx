@@ -41,7 +41,7 @@ export default function Gallery() {
                         <h2 className="font-serif text-4xl lg:text-5xl text-[#1A2F24] tracking-tight leading-[1.05] mt-5">
                             A small album,
                             <br />
-                            <span className="italic font-light">
+                            <span className="font-light">
                                 no filter required.
                             </span>
                         </h2>

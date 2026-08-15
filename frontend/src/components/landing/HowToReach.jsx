@@ -34,7 +34,7 @@ export default function HowToReach() {
                     <h2 className="font-serif text-4xl lg:text-5xl text-[#1A2F24] tracking-tight leading-[1.05] mt-5">
                         Three ways
                         <br />
-                        <span className="italic font-light">in.</span>
+                        <span className="font-light">in.</span>
                     </h2>
                     <p className="mt-6 text-[#4A5D53] leading-relaxed max-w-md">
                         Salem is the gateway. From there, the climb begins —

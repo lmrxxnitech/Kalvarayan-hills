@@ -50,7 +50,7 @@ export default function Contact() {
                     <h2 className="font-serif text-4xl lg:text-6xl tracking-tight leading-[1.05] mt-6">
                         Tell us when
                         <br />
-                        <span className="italic font-light text-[#E2E7E4]">
+                        <span className="font-light text-[#E2E7E4]">
                             you'd like to come.
                         </span>
                     </h2>

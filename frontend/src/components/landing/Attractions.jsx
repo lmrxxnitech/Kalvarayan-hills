@@ -57,7 +57,7 @@ export default function Attractions() {
                         <h2 className="font-serif text-4xl lg:text-6xl tracking-tight leading-[1.05] mt-6 max-w-[800px]">
                             Five reasons the
                             <br />
-                            <span className="italic font-light text-[#E2E7E4]">
+                            <span className="font-light text-[#E2E7E4]">
                                 hills hold you longer
                             </span>
                             .

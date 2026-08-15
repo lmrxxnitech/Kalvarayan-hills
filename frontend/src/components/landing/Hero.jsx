@@ -31,13 +31,13 @@ export default function Hero() {
             <div className="relative z-10 max-w-[1400px] mx-auto px-6 lg:px-12 mt-16 lg:mt-28">
                 <h1
                     data-testid="hero-title"
-                    className="font-serif text-white text-[44px] sm:text-6xl lg:text-[112px] xl:text-[128px] leading-[0.95] tracking-tight max-w-[1100px] animate-fade-up opacity-0 [animation-delay:400ms]"
+                    className="font-sans font-bold uppercase text-white text-[40px] sm:text-6xl lg:text-[104px] xl:text-[120px] leading-[0.95] tracking-[-0.02em] max-w-[1200px] animate-fade-up opacity-0 [animation-delay:400ms]"
                 >
-                    Build values <br />
-                    <span className="italic font-light text-[#E2E7E4]">
-                        for the
-                    </span>{" "}
-                    Future
+                    Build on values
+                    <br />
+                    <span className="font-light text-[#E2E7E4]">
+                        Design for the Future
+                    </span>
                 </h1>
 
                 <div className="mt-10 lg:mt-14 grid grid-cols-1 lg:grid-cols-12 gap-8 items-end animate-fade-up opacity-0 [animation-delay:700ms]">

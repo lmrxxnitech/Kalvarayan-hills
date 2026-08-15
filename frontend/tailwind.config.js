@@ -5,8 +5,8 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                serif: ['"Cormorant Garamond"', 'ui-serif', 'Georgia', 'serif'],
-                sans: ['"Work Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+                serif: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+                sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
             },
             colors: {
                 background: 'hsl(var(--background))',

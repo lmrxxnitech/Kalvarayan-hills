@@ -14,7 +14,7 @@ export default function About() {
                         <h2 className="font-serif text-4xl lg:text-6xl text-[#1A2F24] tracking-tight leading-[1.05] mt-6">
                             Two ranges,
                             <br />
-                            <span className="italic font-light">
+                            <span className="font-light">
                                 one slow horizon.
                             </span>
                         </h2>
@@ -35,9 +35,9 @@ export default function About() {
                         <p className="text-[#1A2F24] text-xl lg:text-2xl font-serif leading-relaxed">
                             The Kalvarayan Hills rise quietly above the plains
                             of Salem, split into the upper{" "}
-                            <em className="text-[#C86A53]">Periya Kalrayan</em>{" "}
+                            <span className="not-italic font-semibold text-[#C86A53]">Periya Kalrayan</span>{" "}
                             and the lower{" "}
-                            <em className="text-[#C86A53]">Chinna Kalrayan</em>
+                            <span className="not-italic font-semibold text-[#C86A53]">Chinna Kalrayan</span>
                             — a long, forested spine of the Eastern Ghats home
                             to Malayali tribal villages, coffee terraces and
                             waterfalls older than memory.
